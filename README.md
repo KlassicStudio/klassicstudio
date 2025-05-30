@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Martín Nusspaumer
 
-🎭 **Operatic Tenor** | 💻 **Software Engineer** | ⚡ **Electronic Engineer**
+ 💻 **Software Engineer** | ⚡ **Electronic Engineer** |  🎭 **Operatic Tenor**
 
 Welcome to my corner of the web! I'm a Uruguayan-born, Miami-based creator with a passion for **beautiful code, elegant design, and powerful storytelling** — on stage and online.
 
