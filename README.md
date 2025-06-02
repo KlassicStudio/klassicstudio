@@ -14,7 +14,7 @@ As an international operatic tenor, I've performed leading roles across the Amer
 
 ## 💻 What I do in tech
 
-- ⚙️ **Full-stack development** (Next.js, TypeScript, Supabase, Shadcn)
+- ⚙️ **Full-stack development** (React, Next.js, TypeScript, Supabase, Shadcn)
 - 🌐 Custom **WordPress** builds with WPBakery & ACF, mobile optimization
 - ☁️ **Cloud hosting & DevOps** (Cloudflare, VPS, AWS)
 - 🔐 Role-based access control, Supabase Auth, and secure APIs
@@ -32,8 +32,10 @@ As an international operatic tenor, I've performed leading roles across the Amer
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/-Shadcn-000000?style=flat-square&logo=react&logoColor=white)
+
 
 ### 🛠️ Tools & Platforms
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
