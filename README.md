@@ -15,7 +15,7 @@ As an international operatic tenor, I've performed leading roles across the Amer
 ## 💻 What I do in tech
 
 - ⚙️ **Full-stack development** (React, Next.js, TypeScript, Supabase, Shadcn)
-- 🌐 Custom **WordPress** builds with WPBakery & ACF, mobile optimization
+- 🌐 Custom **WordPress** theme builds
 - ☁️ **Cloud hosting & DevOps** (Cloudflare, VPS, AWS)
 - 🔐 Role-based access control, Supabase Auth, and secure APIs
 - 🧠 Data architecture for CRM, ticketing, and event platforms
