@@ -76,7 +76,7 @@ As an international operatic tenor, I've performed leading roles across the Amer
 ## 📫 Get in Touch
 
 - Personal site → [martinnusspaumer.com](https://martinnusspaumer.com)
-- 🎤 Booking & media inquiries → [LinkedIn](https://www.linkedin.com/in/martinnusspaumer)
+- 🎤 Booking & media inquiries → [LinkedIn](https://www.linkedin.com/in/mnnusspaumer)
 - 💌 Collaboration? Reach out → `martin [at] klassicstudio [dot] com`
 
 ---
